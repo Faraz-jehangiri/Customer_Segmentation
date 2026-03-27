@@ -129,13 +129,11 @@ jupyter notebook Task2_Customer_Segmentation.ipynb
 ## 👤 Author
 
 **Faraz Jehangiri**
-Data Science Intern @ DevelopersHub Corporation
+Data Science Intern 
 BS Computer Science — SSUET, Karachi
 
 [![GitHub](https://img.shields.io/badge/GitHub-Faraz--jehangiri-181717?style=flat-square&logo=github)](https://github.com/Faraz-jehangiri)
 
 ---
 
-<div align="center">
-<sub>DevelopersHub Corporation · Data Science & Analytics Internship · Task 2</sub>
-</div>
+
